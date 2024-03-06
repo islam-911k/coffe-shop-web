@@ -6,6 +6,13 @@ class AppSizes {
   static const double sideBarWidth = 0.08;
   static const double sideBarHeight = 1.0;
 
+  static const double sideBarElementContaniertWidth = 0.04;
+  static const double sideBarElementContaniertHeigt = 0.09;
+  static const double sideBarElementContanierRadius = 0.009;
+  static const double sideBarElementTextSize = 0.012;
+  static const double sideBarIonsSize = 0.025;
+
+
   /// middle container and its elements
   // main
   static const double middleWidth = 0.62;
@@ -42,9 +49,5 @@ class AppSizes {
   static const double appBarWidth = 1.0;
 
    */
-
-
-
-
 
 }
